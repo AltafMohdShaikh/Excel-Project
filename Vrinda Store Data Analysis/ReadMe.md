@@ -1,4 +1,4 @@
-# Vrinda Store Annual Report Dashboard 2022
+# E-commerce Annual Report Dashboard 2022
 
 An interactive Excel dashboard project created to analyze and visualize Vrinda Store sales performance for the year 2022.
 
